@@ -1,0 +1,10 @@
+{
+  "name": "assassinprotocol",
+  "version": "1.0.0",
+  "description": "Procedural SMIL Vector Profile Card for Assassin Protocol",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generate_card.mjs"
+  },
+  "author": "0xhansen"
+}
